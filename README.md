@@ -3,7 +3,7 @@
 
 Developer Back-End
 
-Here are some ideas to get you started:
+Some things about me: 
 
 🌍 I'm based in Goiás, Brazil<br>
 ✉️ You can contact me at brucestroke05@gmail.com<br>
@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 <br>
  Skills
 <br>
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg" width="36" height="36" alt="Java" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql.svg)" width="36" height="36" alt="Mysql" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5.svg)" width="36" height="36" alt="HTML5" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3.svg)" width="36" height="36" alt="CSS3" /></a>
-
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" width="86" height="26" alt="Spring Boot" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"  width="86" height="26" alt="Spring" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"  width="86" height="26" alt="SpringBoot" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="86" height="26" alt="SpringBoot" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="86" height="26" alt="MYSQK" /></a>
 
 
 
