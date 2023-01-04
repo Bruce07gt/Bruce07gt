@@ -8,7 +8,7 @@ Some things about me:
 🌍 I'm based in Goiás, Brazil<br>
 ✉️ You can contact me at brucestroke05@gmail.com<br>
 🚀 I'm currently working on Datawork.<br>
-💻 I'm learning Advanced JAVA, C and Javascript programming language.<br>
+💻 I'm learning Advanced JAVA and Javascript programming language.<br>
 🤝 I'm open to collaborating on projects that have a high impact in peoples lives.<br>
 🎸 I love Music, Rock and Guitars.<br>
 <br>
