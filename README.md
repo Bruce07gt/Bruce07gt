@@ -20,9 +20,7 @@ Some things about me:
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" width="86" height="26" alt="Spring Boot" /></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"  width="86" height="26" alt="Spring" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"  width="86" height="26" alt="Postman" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" width="86" height="26" alt="BootStrap" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="86" height="26" alt="MYSQL" /></a>
-<a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" width="86" height="26" alt="GCP" /></a>
 
 
 
